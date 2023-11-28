@@ -1,0 +1,29 @@
+{
+  "id": "RWj88dRWJU0AI9vUWmkhlA",
+  "alias": "georgia-boy-lawn-care-orange-park-6",
+  "name": "Georgia Boy Lawn Care",
+  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vii-dyxO_g3MmVYrCq0eaA/o.jpg",
+  "is_closed": "False",
+  "url": "https://www.yelp.com/biz/georgia-boy-lawn-care-orange-park-6?adjust_creative=LSSkESDxM_pOlaWcO4ko4Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=LSSkESDxM_pOlaWcO4ko4Q",
+  "review_count": "9",
+  "categories": [{ "alias": "lawnservices", "title": "Lawn Services" }],
+  "rating": "5.0",
+  "coordinates": {
+    "latitude": "30.1493034362793",
+    "longitude": "-81.7819366455078"
+  },
+  "transactions": [],
+  "location": {
+    "address1": "None",
+    "address2": "None",
+    "address3": "None",
+    "city": "Orange Park ",
+    "zip_code": "32065",
+    "country": "US",
+    "state": "FL",
+    "display_address": ["Orange Park , FL 32065"]
+  },
+  "phone": "+14702709900",
+  "display_phone": "(470) 270-9900",
+  "distance": "3547.4445440005607"
+}
